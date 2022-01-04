@@ -1,3 +1,11 @@
+# My first TypeScript assignment for GoodieBox
+
+After cloning the project and installing all necessary dependencies you can run it with npm start.
+Now a login form will appear.
+When typing in wrong info - nothing will happen but when typing in the correct information ("bob") in both input fields the next button with the option to display the user's information appears. A form with the option to change the user's info also appears.
+
+Hereafter is the invoice part, which I did not manage to finish.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
